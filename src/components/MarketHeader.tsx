@@ -1,6 +1,6 @@
 import React from 'react';
 import { DollarSign, BarChart3 } from 'lucide-react';
-import ConfidexLogo  from '../assets/trading.svg'; // SVG as React component
+import ConfidexLogo  from '../assets/trading.jpeg'; // SVG as React component
 
 export function MarketHeader() {
   return (
